@@ -26,7 +26,7 @@ You need to have the following software installed and on your `PATH` before you 
 
   * [pandoc](http://johnmacfarlane.net/pandoc/) for Markdown to HTML and Epub conversion.
   * [kindlegen](http://www.amazon.com/gp/feature.html?docId=1000765211) for Epub to Mobi conversion.
-
+  sudo apt-get install pandoc #4.2 MB
 To generate an e-reader friendly version of the book, you can use `make` with one of the following options:
 
   * `html` - build a HTML5 single-page version of the book
